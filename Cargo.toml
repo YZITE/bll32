@@ -1,5 +1,6 @@
 [package]
 name = "yz-bll32"
+description = "simple backend for bloom-like filter for partitions and tags of content-addressed data"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
